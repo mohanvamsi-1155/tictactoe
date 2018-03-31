@@ -1,0 +1,3 @@
+This is a sample game created using python3.
+2 players will be playing the game taking turns alternatively.
+There may be 3 cases where either player 1 can win or player 2 or it can be a tie.
